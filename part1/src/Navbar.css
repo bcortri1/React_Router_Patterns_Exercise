@@ -1,0 +1,20 @@
+.Navbar {
+    
+    background-color: mediumaquamarine;
+    
+}
+
+.Navbar a {
+    color: gray;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+
+.Navbar a.active {
+    background-color: mediumaquamarine;
+    color: black;
+    font-weight: bolder;
+}

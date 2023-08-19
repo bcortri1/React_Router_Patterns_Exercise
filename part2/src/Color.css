@@ -1,0 +1,11 @@
+.Color {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.Color a {
+    color: black;
+    font-weight: bold;
+}
